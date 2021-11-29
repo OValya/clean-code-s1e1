@@ -24,7 +24,7 @@
   }
   
 }
-.centered-main-page-element {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -125,13 +125,13 @@
   width: 226px;
 }
 
-.delete-image {
+.delete-img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
 
-.delete-image:hover {
+.delete-img:hover {
   transform: rotateZ(0);
 }
 
